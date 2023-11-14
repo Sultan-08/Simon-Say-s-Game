@@ -8,7 +8,7 @@ let level = 0;
 
 let h2 = document.querySelector("h2");
 
-document.addEventListener("keydown",  function () {
+document.addEventListener("onclick",  function () {
     if (started == false) {
         console.log("Game is started");
         started = true;
