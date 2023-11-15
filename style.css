@@ -45,3 +45,16 @@ body {
     font-size: 3rem;
     font-weight: bold;
 }
+
+.Rules {
+    text-align: left;
+}
+
+.Rules h2 {
+    font-size: 2rem;
+    line-height: 0%;
+}
+
+.Rules ul li {
+    font-size: 1.5rem;
+}
